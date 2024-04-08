@@ -1,5 +1,5 @@
 # my-ctf-challenges
-A list of some CTF challenges I created. Depoly on [NSSCTF](nssctf.cn).
+A list of some CTF challenges I created. Depoly on [NSSCTF](https://nssctf.cn).
 
 ## 2024
 
